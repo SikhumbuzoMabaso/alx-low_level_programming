@@ -3,7 +3,7 @@
 /**
  * main - print alphabets in lowercase and then in uppercase
  *
- * Ruturn: (0)
+ * Ruturn: 0
  */
 int main(void)
 {
