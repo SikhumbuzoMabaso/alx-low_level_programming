@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main -prints some letters of aphabet
+ * main - prints some letters of aphabet
  *
  * Return: Always (Success)
  */
-int ain(void)
+int main(void)
 {
 	char c;
 
